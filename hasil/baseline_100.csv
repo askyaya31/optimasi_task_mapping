@@ -1,0 +1,7 @@
+Baseline,Makespan (s),Energi (J)
+Semua ke fog,44.7,16637.97
+Semua ke cloud,40.48,47591.95
+Round robin,25.74,23319.97
+Acak (rata-rata),34.16,24942.05
+Acak (terbaik makespan),21.24,27690.1
+Acak (terbaik energi),31.17,20447.59
